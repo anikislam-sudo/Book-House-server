@@ -1,0 +1,82 @@
+[
+    {
+      "img": "https://i.ibb.co/k14tTpL/The-Great-Gatsby-Cover-1925-Retouched.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "Genre": "Tragedy",
+      "pubDate": "April 10, 1925",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/Vvh8mHr/lf.webp",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J. K. Rowling",
+      "Genre": "Fantasy",
+      "pubDate": "June 26, 1997",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/nnY99nx/clean.jpg",
+      "title": "Black Panther",
+      "author": "Eve Ewing",
+      "Genre": "Comics, Graphic novel, Fiction",
+      "pubDate": "July 19, 2023",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/MgPVxP6/clean-1.jpg",
+      "title": "Deadpool: Badder Blood",
+      "author": "Rob Liefeld, Chad Bowers, Chris Sims",
+      "Genre": "Action, Comedy ",
+      "pubDate": "July 19, 2023",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/5GHb1Z7/clean-2.jpg",
+      "title": "Marvel's Spider-Man 2",
+      "author": "Christos Gage",
+      "Genre": "Action, Comedy",
+      "pubDate": "May 01, 2023",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/6W7Dtyq/clean-3.jpg",
+      "title": "Fantastic Four",
+      "author": "Ryan North",
+      "Genre": "Superhero, Sci-fi",
+      "pubDate": "April 12, 2023",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/x2hPjsY/clean-4.jpg",
+      "title": "Death of Doctor Strange ",
+      "author": "Jed Mackay",
+      "Genre": "Action, Fantasy, Adventure",
+      "pubDate": "January 26, 2022",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/fSbQMpq/clean-5.jpg",
+      "title": "Thor",
+      "author": "Torunn Gronbekk",
+      "Genre": "Comics, Horror fiction, Fantasy Fiction",
+      "pubDate": "May 24, 2023",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/j448frX/x500-506a5bce-17c8-496d-8183-d9a40817b430-1200x1200.jpg",
+      "title": "The Lord of the Rings",
+      "author": "John Ronald Reuel Tolkien",
+      "Genre": "High fantasy, Adventure",
+      "pubDate": "July 29, 1954",
+      "reviews": []
+    },
+    {
+      "img": "https://i.ibb.co/Sm0XjDJ/9780345534835.jpg",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "Genre": "High fantasy, Fantasy, Novel",
+      "pubDate": "May 29, 1990",
+      "reviews": []
+    }
+  ]
